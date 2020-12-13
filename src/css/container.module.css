@@ -1,0 +1,15 @@
+.container {
+  padding: 20px;
+}
+
+.displays {
+  display: flex;
+  flex-direction: row;
+  align-self: center;
+  justify-content: center;
+}
+
+.display {
+  width: 25%;
+  margin: 5%;
+}
